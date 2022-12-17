@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @remzimete
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Studying Software
+- 🌱 I’m currently learning Java And Web Technologies
+
+- 📫 How to reach me ... : 
+- linkedin.com/remzimete
 
 <!---
 remzimete/remzimete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
