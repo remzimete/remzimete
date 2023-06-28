@@ -18,7 +18,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=remzimete&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 
+### =)
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVzcm5saHUxMjhnaWU2N3h6eW1mZXJpdng0ZHprbTk3dzhuNXUxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6T5Uiz7APcMmvlaoy/giphy.gif" width="512px"/>
 
 
