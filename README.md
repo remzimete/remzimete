@@ -19,7 +19,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=remzimete&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### 😂 
-<iframe src="https://giphy.com/embed/j6T5Uiz7APcMmvlaoy" width="480" height="477" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cbs-macgyver-meredith-eaton-j6T5Uiz7APcMmvlaoy">via GIPHY</a></p>
+<img src="https://giphy.com/embed/j6T5Uiz7APcMmvlaoy" width="512px"/>
+
 
 
 ---
