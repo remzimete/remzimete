@@ -19,7 +19,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=remzimete&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### 😂 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/96I5nwec9we32zMBK4/video" width="480"></iframe></div>
+(<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/96I5nwec9we32zMBK4/video" width="480"></iframe></div>)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=remzimete&icon=2&color=0)](https://visitcount.itsvg.in)
